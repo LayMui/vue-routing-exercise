@@ -1,7 +1,7 @@
 <template>
 <div>
     <p>This is the master component</p>
-    <router-link :to='detailsPath' >Go to detail</router-link>
+    <router-link to="/detail">Go to detail</router-link>
 </div>
 </template>
 
